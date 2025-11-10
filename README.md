@@ -13,6 +13,6 @@ https://donut-chat-2463777e.base44.app/
 
 
 ## ❤️ Donate
-BTC address for donations: bc1qgws0d303egpcfwnj536ppq9y9hksxq0e6vzmnv
+BTC address for donations: bc1q3pz8yy8qsmp50p28xa9ksds4ms00ke80zyxf5q
 
 #### Made with Base44
